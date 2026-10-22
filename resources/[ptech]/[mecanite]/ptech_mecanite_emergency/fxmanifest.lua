@@ -3,7 +3,7 @@ game 'gta5'
 
 author 'P-Tech adaptation; original model by SAS994 & ShaoyeBen and credited contributors'
 description 'P-Tech Mecanite Emergency: EMS Blazer Aqua and low-impact water mooring assist'
-version '0.1.0'
+version '0.0.1'
 
 files {
     'data/vehicles.meta',
